@@ -5,7 +5,7 @@ Centrum für Informations- und Sprachtverarbeitung, LMU München
  - Zeit: Mo 14:00-16:00 und Fr 10:00-12:00
  - Ort: Hörsaal B U101, Oettingenstr. 67
  - Dozent: Dr. Benjamin Roth
- - Tutore: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
+ - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
 Sie erreichen den Dozenten und die Tutoren unter eicl1718 [at] cis [dot] uni [minus] muenchen [dot] de
 
