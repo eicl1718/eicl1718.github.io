@@ -1,6 +1,6 @@
 # Einführung in die Computerlinguistik
 ### Wintersemester 2017 / 2018
-### Centrum für Informations- und Sprachtverarbeitung, LMU München
+### Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit: Mo 14:00-16:00 und Fr 10:00-12:00
  - Zusätzliches Tutorat: Mi 12:00-14:00
