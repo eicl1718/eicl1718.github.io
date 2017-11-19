@@ -20,5 +20,7 @@ eicl1718 [at] cis [dot] uni [minus] muenchen [dot] de
 Tutoriumsmaterialien:
 
 | Datum      | Folien
-| ---------- | ------------------------------------------------------------------------------------
+| ---------- | -------------------------------------------------------------------------------------------------
 | 25.10.2017 | [Präsentation](https://eicl1718.github.io/tutorium_25.11.2017.pdf){:target="_blank"}
+| 08.11.2017 | [Präsentation Phonetik und Phonologie](https://eicl1718.github.io/tutorium_2.pdf){:target="_blank"}
+| 15.11.2017 | [Präsentation Morphologie](https://eicl1718.github.io/tutorium_3.pdf){:target="_blank"}
