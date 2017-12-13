@@ -24,3 +24,6 @@ Tutoriumsmaterialien:
 | 25.10.2017 | [Präsentation](https://eicl1718.github.io/tutorium_25.11.2017.pdf){:target="_blank"}
 | 08.11.2017 | [Präsentation Phonetik und Phonologie](https://eicl1718.github.io/tutorium_2.pdf){:target="_blank"}
 | 15.11.2017 | [Präsentation Morphologie](https://eicl1718.github.io/tutorium_3.pdf){:target="_blank"}
+| 22.11.2017 | [Präsentation Syntax](https://eicl1718.github.io/tutorium_4.pdf){:target="_blank"}
+| 29.11.2017 | [Phrasenstrukturgrammatik](https://eicl1718.github.io/Phrasenstruktur%20und%20Feldermodell.pdf){:target="_blank"}
+| 06.12.2017 | [Präsentation Semantik](https://eicl1718.github.io/tutorium_6.pdf){:target="_blank"}
