@@ -8,7 +8,7 @@
  - Dozent: Dr. Benjamin Roth
  - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
-<span style="color:red">**Die Klausur findet am 9.2.2018 von 10:00-12:00 statt.**</span>
+<span style="color:red">**Die Klausur findet am 9.2.2018 von 10:00-12:00, Hörsaal B001 (=über dem 'üblichen' Hörsaal BU101) statt.**</span>
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/4uEpwaoRroaOU7nK2){:target="_blank"}</span>
 
