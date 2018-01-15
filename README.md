@@ -8,6 +8,10 @@
  - Dozent: Dr. Benjamin Roth
  - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
+Die Klausur findet am 9.2.2018 von 10:00-12:00 statt.
+ - Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden
+ - *nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/4uEpwaoRroaOU7nK2){:target="_blank"}
+
 Sie erreichen den Dozenten und die Tutoren unter:
 
 eicl1718 [at] cis [dot] uni [minus] muenchen [dot] de
