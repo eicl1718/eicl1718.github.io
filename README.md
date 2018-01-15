@@ -11,6 +11,12 @@
 <span style="color:red">**Die Klausur findet am 9.2.2018 von 10:00-12:00, Hörsaal B001 (=über dem 'üblichen' Hörsaal BU101) statt.**</span>
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/4uEpwaoRroaOU7nK2){:target="_blank"}</span>
+ - Sie müssen für die Klausur angemeldet sein und Sie benötigen Ihren Studentenausweis um bei der Klausur mitschreiben zu dürfen.
+ - Sie können ein von Ihnen handbeschriebenes, zweiseitiges DIN-A4 Blatt mit für Sie nützlichen Informationen/Merkhilfen in der Klausur verwenden. Das Blatt wird zusammen mit der Klausur eingesammelt.
+ - Sie dürfen einen nicht-programmierbaren Taschenrechner benutzen.
+ - Handys (... Smartwachtes etc.) sind nicht erlaubt (müssen ausgeschaltet und weggepackt sein).
+ - Dauer der Klausur: 90 Minuten
+
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
