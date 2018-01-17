@@ -17,6 +17,9 @@
  - Handys (... Smartwachtes etc.) sind nicht erlaubt (müssen ausgeschaltet und weggepackt sein).
  - Dauer der Klausur: 90 Minuten
 
+- - -
+Die Nachklausur findet am Samstag, den 10.3.2018 um 10:00 statt (Hörsaal BU101)
+- - -
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
