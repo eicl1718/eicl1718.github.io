@@ -18,7 +18,7 @@
  - Dauer der Klausur: 90 Minuten
 
 - - -
-Die Nachklausur findet am Samstag, den 10.3.2018 um 10:00 statt (Hörsaal BU101)
+Die Nachklausur findet am Samstag, den 10.3.2018 um 10:00 statt (<span style="color:red">*Hörsaal wird noch festgelegt*</span>)
 - - -
 
 Sie erreichen den Dozenten und die Tutoren unter:
