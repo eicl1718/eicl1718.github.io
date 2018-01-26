@@ -21,18 +21,28 @@
 Die Nachklausur findet am Samstag, den 10.3.2018 um 10:00 statt (<span style="color:red">*Hörsaal wird noch festgelegt*</span>)
 - - -
 Plan für die letzten Vorlesungseinheiten:
+
 Freitag, 26.1.
+
   - VL, Stoff: Parsing/CYK
   - Freischaltung letztes Übungsblatt zu Stoff (Abgabetermin: 2.2.)
   - Ausgabe Probeklausur (Besprechung: 2.2.)
+
 Montag, 29.1.
+
   - Ü: Parsing: Shift-Reduce/CYK
   - Freischaltung "Übungsblatt": Studentenfragen (Abgabetermin: 4.2.)
+
 Freitag: 2.2.
+
   - Besprechung Probeklausur
+
 Montag: 5.2.
+
   - Besprechung Studentenfragen
+
 Freitag: 9.2.
+
   - Klausur
 
 - - -
