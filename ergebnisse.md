@@ -21,8 +21,11 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 ## Bewertungsschema Bonuspunkte aus den Übungen
 
 Maximal erreichbare Punktzahl in den Übungsaufgaben: 119.5
+
 Maximal 8.6 Bonuspunkte werden zu den in der Klausur erreichten Punkte addiert, wenn in der Klausur eine Punktzahl von mindestens 43 erreicht wurde.
+
 Berechnung der Bonuspunkte: ((erreichte Punktzahl in den Übungsaufgaben) / 119.5) * 8.6
+
 Die Bonuspunkte werden zu den Klausurpunkten addiert (d.h. Klausurpunkte + Bonuspunkte = max. 94.6); die Note wird nach obigem Notenschema festgelegt.
 
 | Matr.Nr. | Punkte Klausur | Incl. Bonus | Note|
