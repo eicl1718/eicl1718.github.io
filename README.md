@@ -10,6 +10,10 @@
 
 <span style="color:red">**[Ergebnisse der Klausur](https://eicl1718.github.io/ergebnisse){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind.)
 
+Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
+
+- - -
+
 <span style="color:red">**Die Klausur findet am 9.2.2018 von 10:00-12:00, Hörsaal B001 (=über dem 'üblichen' Hörsaal BU101) statt.**</span>
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/4uEpwaoRroaOU7nK2){:target="_blank"} (Frist: 26.1.)</span>
