@@ -16,4 +16,4 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 | 53 | 3.3 |
 | 48 | 3.7 |
 | 43 | 4 |
-| 0 | NB |
+| <43 | NB |
