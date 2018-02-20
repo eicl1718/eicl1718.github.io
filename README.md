@@ -8,7 +8,7 @@
  - Dozent: Dr. Benjamin Roth
  - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
-<span style="color:red">**[Ergebnisse der Klausur](https://eicl1718.github.io/ergebnisse){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind.)
+<span style="color:red">**[Ergebnisse der Klausur](https://eicl1718.github.io/ergebnisse){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.)
 
 Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105, und nach Vereinbarung.
 
