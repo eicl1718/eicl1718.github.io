@@ -8,10 +8,11 @@
  - Dozent: Dr. Benjamin Roth
  - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
+Achtung: Raumänderung für die Nachklausur. Neuer Raum: Geschw.-Scholl-Pl. 1 (A) - A 125 ([Lageplan](http://www.uni-muenchen.de/raumfinder/index.html#/building/bw0000/map?room=000001215_){:target="_blank"})
 
 <span style="color:red">**[Ergebnisse der Klausur](https://eicl1718.github.io/ergebnisse){:target="_blank"}**</span> (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Mittwoch, 21.2.2018, 16:00-17:00, Raum C 105.
 
-<span style="color:red">**Die Nachklausur findet am Samstag, den 10.3.2018 von 10:00-12:00 statt. Raum: Geschw.-Scholl-Pl. 1 (A) - A 120 (Übungsraum)**</span>
+<span style="color:red">**Die Nachklausur findet am Samstag, den 10.3.2018 von 10:00-12:00 statt. Raum: Geschw.-Scholl-Pl. 1 (A) - A 125**</span>
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
  - <span style="color:red">*nur* Studenten mit Hauptfach Informatik verwenden bitte das [Webformular](https://goo.gl/forms/vBSN2TDc3AgqJwoZ2){:target="_blank"} (Frist: 8.3.)</span>
  - Sie müssen für die Klausur angemeldet sein und Sie benötigen Ihren Studentenausweis um bei der Klausur mitschreiben zu dürfen.
