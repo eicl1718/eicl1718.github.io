@@ -8,7 +8,9 @@
  - Dozent: Dr. Benjamin Roth
  - Tutoren: Ivana Daskalovska, Simon Preißner, Falk Spellerberg
 
-<span style="color:red">**Achtung: Raumänderung für die Nachklausur. Neuer Raum: Geschw.-Scholl-Pl. 1 (A) - A 125 ([Lageplan](http://www.uni-muenchen.de/raumfinder/index.html#/building/bw0000/map?room=000001215_){:target="_blank"})**</span>
+[Ergebnisse der Nachklausur](https://eicl1718.github.io/ergebnisse_nachklausur){:target="_blank"}
+
+Klausureinsicht ist am 3.4.2018 in Raum C106.
 
 Die Nachklausur findet am Samstag, den 10.3.2018 von 10:00-12:00 statt. Raum: Geschw.-Scholl-Pl. 1 (A) - A 125
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
