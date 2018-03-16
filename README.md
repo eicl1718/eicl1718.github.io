@@ -10,7 +10,7 @@
 
 [Ergebnisse der Nachklausur](https://eicl1718.github.io/ergebnisse_nachklausur){:target="_blank"}
 
-Klausureinsicht ist am 3.4.2018 in Raum C106.
+Klausureinsicht ist am 3.4.2018 um 15:00 in Raum C106.
 
 Die Nachklausur findet am Samstag, den 10.3.2018 von 10:00-12:00 statt. Raum: Geschw.-Scholl-Pl. 1 (A) - A 125
  - <span style="color:red">Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, müssen sich über das LSF anmelden</span>
